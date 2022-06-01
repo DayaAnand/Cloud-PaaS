@@ -1,4 +1,4 @@
-# cloud-paas
+# Cloud-PaaS
 
 Platform as a Service configuration using Heroku
 
